@@ -1,2 +1,2 @@
 # Ulight-Browser
-Falight Browser is being developed base on EdgeHTML
+Ulight Browser is being developed base on EdgeHTML
